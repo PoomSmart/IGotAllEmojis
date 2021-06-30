@@ -1,0 +1,12 @@
+Package: com.ps.igotallemojis
+Name: IGotAllEmojis
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Ensure you have latest emojis on Instagram.
+Maintainer: PoomSmart
+Author: PoomSmart
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 9.0), com.ps.emojilibrary
+Conflicts: com.spicat.igotallemojis
+Replaces: com.spicat.igotallemojis
+Provides: com.spicat.igotallemojis
