@@ -2,7 +2,7 @@ Package: com.ps.igotallemojis
 Name: IGotAllEmojis
 Version: 1.0.0
 Architecture: iphoneos-arm
-Description: Ensure you have latest emojis on Instagram.
+Description: Ensure you have latest emojis on Facebook and Instagram.
 Maintainer: PoomSmart
 Author: PoomSmart
 Section: Tweaks

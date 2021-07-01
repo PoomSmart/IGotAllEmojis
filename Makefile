@@ -1,7 +1,7 @@
 TARGET := iphone:clang:latest:9.0
-PACKAGE_VERSION = 1.0.0
+PACKAGE_VERSION = 1.0.1
 ARCHS = armv7 arm64
-INSTALL_TARGET_PROCESSES = Instagram
+INSTALL_TARGET_PROCESSES = Instagram Facebook
 
 include $(THEOS)/makefiles/common.mk
 
