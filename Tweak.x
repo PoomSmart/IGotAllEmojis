@@ -1,4 +1,4 @@
-#import "../Emoji/EmojiLibrary/PSEmojiUtilities.h"
+#import <EmojiLibrary/PSEmojiUtilities.h>
 
 static NSMutableArray *getEmojis(id emojis) {
     if ([emojis respondsToSelector:@selector(allObjects)])
